@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/endecoderutils/endecoderutils.iml" filepath="$PROJECT_DIR$/endecoderutils/endecoderutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javautils.iml" filepath="$PROJECT_DIR$/javautils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcutils/jdbcutils.iml" filepath="$PROJECT_DIR$/jdbcutils/jdbcutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomutils/randomutils.iml" filepath="$PROJECT_DIR$/randomutils/randomutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringutils/stringutils.iml" filepath="$PROJECT_DIR$/stringutils/stringutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadutils/threadutils.iml" filepath="$PROJECT_DIR$/threadutils/threadutils.iml" />
+    </modules>
+  </component>
+</project>
